@@ -1,16 +1,19 @@
-## Hi there 👋
+# PTF Armada
 
-<!--
-**ptfarmada/ptfarmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PTF Armada is a Star Trek Online (STO) PC gaming community.
 
-Here are some ideas to get you started:
+## Star Trek Online Resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We maintain a regularly reviewed directory of useful Star Trek Online resources, tools, guides, databases and community links.
+
+[Browse the Star Trek Online Resources Directory](https://ptfarmada.com/resources/)
+
+## PTF Armada Projects
+
+[Star Trek Online Resources on GitHub](https://github.com/ptfarmada/star-trek-online-resources)
+
+[Star Trek Online Resources landing page](https://ptfarmada.github.io/star-trek-online-resources/)
+
+## PTF Armada
+
+[Visit PTF Armada](https://ptfarmada.com/)
